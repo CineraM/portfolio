@@ -107,6 +107,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-weight: 700;
   line-height: 1.2;
 }
+h3{
+  -webkit-text-stroke: 0.3px white;
+}
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
@@ -11554,7 +11557,7 @@ footer.footer .social-link:hover {
             clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(0, 0, 0, 0.8);
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
   }
