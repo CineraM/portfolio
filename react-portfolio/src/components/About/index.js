@@ -26,7 +26,7 @@ const About = () => {
                     <h1>
                         <AnimatedLetters
                             letterClass={letterClass}
-                            strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
+                            strArray={"About me".split("")}
                             idx={15}
                         />
                     </h1>
@@ -34,9 +34,27 @@ const About = () => {
                     <p>Solutions-focused software engineering professional dedicated to delivering robust, scalable platforms that optimize
                     support for core data applications, services, and systems. Enthusiastic individual with graduate-level training in computer
                     science and experience in developing full stack applications & automation tasks.</p>
+
+                    <h1>
+                        <AnimatedLetters
+                            letterClass={letterClass}
+                            strArray={"Education".split("")}
+                            idx={15}
+                        />
+                    </h1>
+
                     <p>Solutions-focused software engineering professional dedicated to delivering robust, scalable platforms that optimize
                     support for core data applications, services, and systems. Enthusiastic individual with graduate-level training in computer
                     science and experience in developing full stack applications & automation tasks.</p>
+
+                    <h1>
+                    <AnimatedLetters
+                            letterClass={letterClass}
+                            strArray={"Work Experience".split("")}
+                            idx={15}
+                        />
+                    </h1>
+
                     <p>Solutions-focused software engineering professional dedicated to delivering robust, scalable platforms that optimize
                     support for core data applications, services, and systems. Enthusiastic individual with graduate-level training in computer
                     science and experience in developing full stack applications & automation tasks.</p>

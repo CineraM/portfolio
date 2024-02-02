@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import LogoS from '../../assets/images/logo-s.png'
+// import LogoS from '../../assets/images/logo-s.png'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
 import { useEffect, useState } from 'react'
@@ -8,9 +8,6 @@ import Loader from 'react-loaders'
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = ['c', 'i', 'n', 'e', 'r', 'a'] // change this later!
-    const jobArray = ['C', 'o', 'm', 'p', 'u', 't', 'e', 'r', ' ', 'S', 'c', 'i', 'e', 'n', 'c', 'e', ' ', 'G', 'r', 'a', 'd'] 
-    // use this "Portfolio".split("")
 
     useEffect(() => {
         const timeoutId = setTimeout(() => {
@@ -32,15 +29,16 @@ const Home = () => {
                     <br/> 
                     <span className={`${letterClass} _13`}>I</span>
                     <span className={`${letterClass} _14`}>'m</span>
-                    <img src={LogoS} alt="developer" />
+                    {/* <img src={LogoS} alt="developer" /> */}
+                    <span > </span>
                     <AnimatedLetters letterClass={letterClass}
-                        strArray={nameArray}
+                        strArray={"Matias Cinera".split("")}
                         idx={15}
                     />
                     <br />
                     <AnimatedLetters letterClass={letterClass}
-                        strArray={jobArray}
-                        idx={22}
+                        strArray={"Software Developer".split("")}
+                        idx={28}
                     />
                     <br />
                 </h1>

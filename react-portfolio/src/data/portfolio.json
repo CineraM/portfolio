@@ -1,40 +1,46 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/streaming_site.jpg",
+            "name": "Streaming Site", 
+            "description": "MERN Web Application",
+            "url": "https://ani-fox-client.vercel.app/"
         }, 
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/twitter.jpg",
+            "name": "Twitter Sentiment Analysis", 
+            "description": "Built a sentiment analysis Recurrent Neural Network for tweets",
+            "url": "https://github.com/CineraM/Twitter-Sentiment-Analysis"
         }, 
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/stocks.jpg",
+            "name": "Candlestick Patterns Recognition", 
+            "description": "(.Net App) Pattern recognition on Yahoo's stock data.",
+            "url": "https://github.com/CineraM/Stocks-Candle-Stick---Pattern-recognition"
         }, 
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/micromouse.jpg",
+            "name": "Webots Micromouse", 
+            "description": "(Python) Webots - Micromouse Implementation",
+            "url": "https://github.com/CineraM/Mobile-Robots-MicroMouse"
         }, 
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/food.jpg",
+            "name": "Food State Classification", 
+            "description": "CNN Food State Classification",
+            "url": "https://github.com/CineraM/CNN-food-state-classification"
         }, 
         {
-            "cover": "/portfolio/1/portfolio-1.jpg",
-            "name": "Ani-Fox", 
-            "description": "REACT web app",
-            "url": "https://github.com/cineram"
+            "cover": "/portfolio/opencv.jpg",
+            "name": "Procedural-Image-Transformations", 
+            "description": "(NumPy, SciPy, OpenCV) Geometric transformations & pixel operations",
+            "url": "https://github.com/CineraM/Procedural-Image-Transformations"
+        },
+        {
+            "cover": "/portfolio/github.png",
+            "name": "Personal Github", 
+            "description": "More Projects on my Github Page",
+            "url": "https://github.com/CineraM/"
         }
     ]
 }
