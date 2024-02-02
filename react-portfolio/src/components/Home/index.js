@@ -10,6 +10,7 @@ const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['c', 'i', 'n', 'e', 'r', 'a'] // change this later!
     const jobArray = ['C', 'o', 'm', 'p', 'u', 't', 'e', 'r', ' ', 'S', 'c', 'i', 'e', 'n', 'c', 'e', ' ', 'G', 'r', 'a', 'd'] 
+    // use this "Portfolio".split("")
 
     useEffect(() => {
         const timeoutId = setTimeout(() => {

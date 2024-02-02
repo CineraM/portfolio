@@ -92,7 +92,7 @@ const Contact = () => {
             <img></img>
         </div>
       </div>
-      <Loader type="pacman" />
+      <Loader type="ball-pulse" />
     </>
   )
 }

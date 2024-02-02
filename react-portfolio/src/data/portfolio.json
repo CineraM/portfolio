@@ -1,0 +1,40 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }, 
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }, 
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }, 
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }, 
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }, 
+        {
+            "cover": "/portfolio/1/portfolio-1.jpg",
+            "name": "Ani-Fox", 
+            "description": "REACT web app",
+            "url": "https://github.com/cineram"
+        }
+    ]
+}
