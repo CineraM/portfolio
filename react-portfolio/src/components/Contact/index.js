@@ -21,8 +21,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault()
 
-    emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+    emailjs.sendForm('service_6g3sn5z', 'template_wwun0ba', form.current, 'x0gtem62BRdC3uaEW')
       .then(
         () => {
           alert('Message successfully sent!')
@@ -45,10 +44,20 @@ const Contact = () => {
               idx={15}
             />
           </h1>
+
+          <ul>
+                        <li>
+                            <p>matiascinera.inquires@gmail.com</p>
+                        </li>
+                        <li>
+                          <p>cinera@usf.edu</p>
+                        </li>
+                    </ul>
           <p>
-            I am interested in freelance opportunities - especially on ambitious
-            or large projects. However, if you have any other requests or
-            questions, don't hesitate to contact me using below form either.
+            
+            I am seeking entry-level, full-time software engineering positions. 
+            However, if you have any other requests or
+            questions, don't hesitate to contact me using below.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
@@ -89,7 +98,7 @@ const Contact = () => {
 
 
         <div className="image-wrap">
-            <img></img>
+            {/* <img></img> */}
         </div>
       </div>
       <Loader type="ball-pulse" />
