@@ -4,12 +4,12 @@
             "cover": "/portfolio/streaming_site.jpg",
             "name": "Streaming Site", 
             "description": "MERN Web Application",
-            "url": "https://ani-fox-client.vercel.app/"
+            "url": "https://github.com/CineraM/Streaming-Site"
         }, 
         {
             "cover": "/portfolio/twitter.jpg",
             "name": "Twitter Sentiment Analysis", 
-            "description": "Built a sentiment analysis Recurrent Neural Network for tweets",
+            "description": "Sentiment analysis Recurrent Neural Network for tweets",
             "url": "https://github.com/CineraM/Twitter-Sentiment-Analysis"
         }, 
         {
