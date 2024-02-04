@@ -72,10 +72,10 @@ const About = () => {
 
                     <ul>
                         <li>
-                            <p>Master of Science in Computer Science - University of South Florida - Cumulative GPA: 3.81 / 4.0 (Aug 2022 – Dec 2023)</p>
+                            <p> <strong className='p-sub'> Master of Science in Computer Science </strong> - University of South Florida - Cumulative GPA: 3.81 / 4.0 (Aug 2022 – Dec 2023)</p>
                         </li>
                         <li>
-                            <p>Bachelor of Science in Computer Science - University of South Florida - Cumulative GPA: 3.79 / 4.0 (Aug 2018 – Aug 2022)</p>
+                            <p> <strong className='p-sub'> Bachelor of Science in Computer Science </strong>  - University of South Florida - Cumulative GPA: 3.79 / 4.0 (Aug 2018 – Aug 2022)</p>
                         </li>
                     </ul>
 

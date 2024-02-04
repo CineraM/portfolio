@@ -21,6 +21,20 @@ body {
   margin-left: 200px;
 }
 
+::-webkit-scrollbar{
+    cursor: pointer;
+    width: 7px;
+}
+
+::-webkit-scrollbar-track{
+    background: #334756;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #FA7D09;
+}
+
+
 
 @media screen and (max-width: 1200px) {
   body {

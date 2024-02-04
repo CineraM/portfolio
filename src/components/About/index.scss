@@ -7,9 +7,21 @@ li {
   position: relative;
   font-size: 16px;
   line-height: 15px;
+  strong {
+    color: #FA7D09;
+    font-weight: 100; 
+  }
+
+  .p-sub {
+    color: #FA7D09;
+    font-weight: 600;
+  }
 }
 
 .container.about-page {
+  position: initial;
+  height: 100%;
+  overflow: hidden;
   
     h1 {
       font-size: 40px;
@@ -29,6 +41,7 @@ li {
       font-weight: 300;
       max-width: fit-content;
       animation: pulse 0.2s;
+
       &:nth-of-type(1) {
         animation-delay: 0.5s;
       }
@@ -82,14 +95,14 @@ li {
       position: absolute;
       width: 200px;
       height: 200px;
-      border: 1px solid #ccc;
-      background: rgba(255, 255, 255, 0.4);
+      border: 1px solid #FA7D09;
+      background: rgba(0, 0, 0, 1);
       text-align: center;
       font-size: 100px;
       display: flex;
       justify-content: center;
       align-items: center;
-      box-shadow: 0 0 20px 0px lightyellow;
+      // box-shadow: 0 0 20px 0px #FA7D09;
     }
   
     .face1 {
