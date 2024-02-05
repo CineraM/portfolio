@@ -47,10 +47,10 @@ const Contact = () => {
 
           <ul>
                         <li>
-                            <p>matiascinera.inquires@gmail.com</p>
+                          <a href="mailto:matiascinera.inquires@gmail.com">matiascinera.inquires@gmail.com</a>
                         </li>
                         <li>
-                          <p>cinera@usf.edu</p>
+                          <a href="mailto:cinera@usf.edu">cinera@usf.edu</a>
                         </li>
                     </ul>
           <p>
