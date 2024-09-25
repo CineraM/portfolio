@@ -32,9 +32,9 @@ const About = () => {
                         />
                     </h1>
 
-                    <p>Solutions-focused software engineering professional dedicated to delivering robust, scalable platforms that optimize
-                    support for core data applications, services, and systems. Enthusiastic individual with graduate-level training in computer
-                    science and experience in developing full stack applications & automation tasks.</p>
+                    <p>Solutions-oriented software engineer with a focus on building robust, scalable platforms. 
+                        Experienced in full-stack development and automation, with a strong foundation in computer science.
+                    </p>
 
                     <h1>
                         <AnimatedLetters
@@ -50,12 +50,12 @@ const About = () => {
                         </li>
                         <li>
                             <strong>Frameworks</strong>
-                            <p>REACT, Mongoose, Matplotlib, PyMongo, Keras, NumPy, OpenCV, ASP.net, Bootstrap, Flask, FastAPI, MySQL, MongoDB
+                            <p>Docker, REACT, Mongoose, Matplotlib, PyMongo, Keras, NumPy, OpenCV, Bootstrap, Flask, FastAPI, MySQL, MongoDB
                             </p>
                         </li>
                         <li>
                             <strong>Technologies/Environment</strong>
-                            <p>GitHub, Wrike, Jira, VS-Code, MS Visual Studio, PyCharm, IntelliJ, Java-processing, Webots, Jupyter, Unity Engine, MS Word - Excel - PPT, Photoshop
+                            <p>GitHub, Wrike, Jira, VS-Code, MS Visual Studio, PyCharm, IntelliJ, Java-processing, Webots, Jupyter
                             </p>
                         </li>
                     </ul>
@@ -88,12 +88,20 @@ const About = () => {
                     </h1>
                     <ul>
                         <li>
+                            <strong>EDA Software Engineer Intern, Qorvo, Inc., FL - (May 2024 – Present)</strong>
+
+                            <p> Proficient in FastAPI and Docker, Built scalable APIs using FastAPI and containerized them with Docker for efficient deployment.
+                                Experienced in implementing python application with multiple libraries and third parties APIs.</p>
+                        </li>
+                    </ul>
+
+                    <ul>
+                        <li>
                             <strong>EDA Software Engineer Intern, Qorvo, Inc., FL - (May 2023 – Dec 2023)</strong>
                             <p>Developed an Analytics system for monitoring metadata of internal applications. This endeavor involved the
-                            implementation of a RESTful architecture in conjunction with a non-relational database. Additionally, multiple
-                             client applications to support various programming languages</p>
-                            <p>Revamped a substantial C++ application by conducting a thorough refactoring of its codebase. This resulted in
-                             improved structural organization and heightened operational efficiency.</p>
+                            implementation of a RESTful architecture in conjunction with a non-relational database. Revamped a substantial C++ 
+                            application by conducting a thorough refactoring of its codebase. This resulted in improved 
+                            structural organization and heightened operational efficiency.</p>
                         </li>
                     </ul>
                 </div>

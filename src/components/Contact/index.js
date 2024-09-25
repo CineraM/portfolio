@@ -50,14 +50,12 @@ const Contact = () => {
                           <a href="mailto:matiascinera.inquires@gmail.com">matiascinera.inquires@gmail.com</a>
                         </li>
                         <li>
-                          <a href="mailto:cinera@usf.edu">cinera@usf.edu</a>
+                          <a href="mailto:matias.cinera@qorvo.com">matias.cinera@qorvo.com</a>
                         </li>
                     </ul>
           <p>
-            
-            I am seeking entry-level, full-time software engineering positions. 
-            However, if you have any other requests or
-            questions, don't hesitate to contact me using below.
+            If you have any requests or questions, don't 
+            hesitate to contact me using the form below.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>

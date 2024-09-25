@@ -32,19 +32,19 @@ const Home = () => {
                     {/* <img src={LogoS} alt="developer" /> */}
                     <span > </span>
                     <AnimatedLetters letterClass={letterClass}
-                        strArray={"Matias Cinera".split("")}
+                        strArray={"Matias Ciñera".split("")}
                         idx={15}
                     />
                     <br />
                     <AnimatedLetters letterClass={letterClass}
-                        strArray={"Software Developer".split("")}
+                        strArray={"Software Engineer".split("")}
                         idx={28}
                     />
                     <br />
                 </h1>
                 
 
-                <h2> Front-end / Back-end / Software Tester / Application Developer</h2>
+                <h2> Back-end / Python Developer </h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
 
             </div>
